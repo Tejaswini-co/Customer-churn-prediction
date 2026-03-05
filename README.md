@@ -1,4 +1,4 @@
-# Customer Churn Prediction: A Complete Data Science Journey
+# Customer Churn Prediction
 
 ## About This Project
 
