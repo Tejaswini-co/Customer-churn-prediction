@@ -16,9 +16,33 @@ CUSTOMER CHURN PREDICTION/
 ├── customer_churn_analysis.ipynb    # Main Jupyter notebook with complete analysis
 ├── Telco-Customer-Churn.csv         # Dataset (automatically downloaded)
 ├── requirements.txt                 # Python dependencies
+├── Medium_Article.md                # Complete Medium article overview
 ├── README.md                         # Project documentation
+├── screenshots/                     # Screenshots and visualization guide
 └── .venv/                           # Virtual environment (created during setup)
 ```
+
+## 📖 Medium Article & Documentation
+
+A comprehensive Medium article is included (`Medium_Article.md`) that provides:
+- **Complete project walkthrough** with business context
+- **Technical implementation details**
+- **Key insights and visualizations**
+- **Business recommendations**
+- **Model performance analysis**
+
+### Adding Screenshots
+The `screenshots/` folder contains instructions for creating professional screenshots:
+- Churn distribution charts
+- Feature importance plots
+- Model comparison visualizations
+- ROC curves and confusion matrices
+
+**To create screenshots:**
+1. Run the Jupyter notebook completely
+2. Use Windows Snip & Sketch (Win + Shift + S) to capture plots
+3. Save as PNG files in the `screenshots/` folder
+4. Upload to Medium when publishing the article
 
 ## 🛠️ Setup Instructions
 
