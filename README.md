@@ -17,18 +17,18 @@ This project tackles this head-on by building predictive models that can identif
 
 ## What You'll Find Here
 
-### 📊 Complete Analysis Workflow
+###  Complete Analysis Workflow
 - **Data Exploration**: Understanding customer behavior patterns
 - **Feature Engineering**: Creating meaningful predictors from raw data
 - **Model Building**: Three different machine learning approaches
 - **Business Insights**: Actionable recommendations for retention
 
-### 🤖 Machine Learning Models
+###  Machine Learning Models
 - **Logistic Regression**: The reliable workhorse (79.9% accuracy)
 - **Random Forest**: The ensemble champion (84.2% AUC)
 - **Decision Tree**: The interpretable baseline
 
-### 💡 Key Findings
+###  Key Findings
 - New customers (0-12 months) are 3x more likely to churn
 - Month-to-month contracts drive 55% of all churn
 - Higher monthly charges correlate strongly with attrition
@@ -128,31 +128,18 @@ If you're in telecom or similar industries, you'll find:
 
 This project represents my passion for using data to solve real business problems. If you'd like to discuss the findings, collaborate on similar projects, or explore how these techniques could apply to your business, feel free to reach out!
 
----
 
-*Built with ❤️ using Python, driven by curiosity, focused on impact.*
 
-## 🎓 Skills Demonstrated
+##  Skills Demonstrated
 
-- ✅ Business problem formulation
-- ✅ Exploratory Data Analysis (EDA)
-- ✅ Data cleaning and preprocessing
-- ✅ Feature engineering
-- ✅ Multiple ML algorithms
-- ✅ Model evaluation and comparison
-- ✅ Data visualization
-- ✅ Business insights and recommendations
-- ✅ Clear documentation
+-  Business problem formulation
+-  Exploratory Data Analysis (EDA)
+-  Data cleaning and preprocessing
+-  Feature engineering
+-  Multiple ML algorithms
+-  Model evaluation and comparison
+-  Data visualization
+-  Business insights and recommendations
+-  Clear documentation
 
-## 👤 Author
 
-Data Science Portfolio Project  
-March 2026
-
-## 📝 License
-
-This project is for educational and portfolio purposes.
-
----
-
-**Portfolio-Ready for Data Analyst/Data Science Internship Applications** 🎯
